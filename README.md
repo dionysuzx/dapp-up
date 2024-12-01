@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Looking for a maintainer! Anyone who wants to maintain the project, I am happy to transfer ownership or add as a maintainer here. Please reach out by opening a GitHub issue and tagging me.
+
 ## What's included
 
 - SvelteKit app
